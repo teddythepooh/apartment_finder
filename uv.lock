@@ -54,7 +54,7 @@ requires-dist = [
     { name = "httpx", specifier = "==0.28.1" },
     { name = "polars", specifier = "==1.39.3" },
     { name = "pyyaml", specifier = "==6.0.3" },
-    { name = "requests", specifier = ">=2.33.1" },
+    { name = "requests", specifier = "==2.33.1" },
     { name = "streamlit", specifier = "==1.56.0" },
 ]
 
